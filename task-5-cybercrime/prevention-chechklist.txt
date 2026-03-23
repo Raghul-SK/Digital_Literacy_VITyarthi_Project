@@ -1,0 +1,18 @@
+'Stay Safe Online' Checklist for College Students
+Living in 2026 in a college environment requires being as smart online as you are in school. Here is a checklist to ensure your online and personal security.
+
+- The "PIN is for Paying" Rule: Never use your UPI PIN to receive money. Be aware that if someone sends you a "Collect Request" or a QR code that promises to "deposit" money into your bank account, it is a scam.
+
+- Verify the 'Display Name': Before hitting the "Proceed" button for any UPI transaction, verify the name that is being displayed after scanning. Scammers usually use their UPI ID (VPA) as something that sounds official, such as "Electricity Board" or "Customer Care."
+
+- Limit Your Exposure: Set a daily transaction limit for your UPI application (for example, between ₹2,000 to ₹5,000). This will be your daily limit for regular transactions. You may temporarily increase your limit if you need to make a payment for a fee or a large transaction.
+
+- Ditch the "Free" APKs: Never download "cracked" premium app or game APKs from third-party sources. They are most likely to carry Trojan viruses that can monitor your messages and steal your OTPs.
+
+- Public Wi-Fi Hygiene: Never access your student portal account, bank app, or emails via free public Wi-Fi (at railway stations or cafes) without a trusted VPN. Your data can be sniffed by hackers.
+
+- App Permission Audit: Check which apps are accessing your SMS and Microphone in your phone settings. Why does a calculator or wallpaper app need access to your text messages?
+
+- The 'Deepfake' Defense: Be mindful of who can view your images. Restrict your social media account settings to "Friends" only. This will help prevent your images from being used to create AI-based 'deep fake' images or morph.
+
+- Spot 'Urgent' Phishing: When an email or WhatsApp message comes from a 'Professor' or 'Placement Cell' asking for your details or to "click here immediately" to avoid missing a deadline, be cautious. Hover over links before clicking.
